@@ -1,4 +1,4 @@
-NoteFlow 📝✨
+NoteCraft 📝✨
 
 A lightweight and enhanced Notepad application built in C#.
 NoteFlow offers the simplicity of classic Notepad with improved features for faster and smoother text editing.
@@ -23,7 +23,7 @@ Visual Studio
 
 Installation
 
-1. Clone the repository: git clone https://github.com/your-username/NoteFlow.git
+1. Clone the repository: git clone https://github.com/neginkhosravi509/NoteCraft.git
 
 2. Open the project in Visual Studio
 
